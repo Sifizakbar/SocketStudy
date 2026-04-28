@@ -103,5 +103,10 @@ client_thread.start()
 server_thread.join()
 client_thread.join()
 
+**Output:**
+
+<img width="886" height="269" alt="Screenshot (430)" src="https://github.com/user-attachments/assets/3bb5adb3-cc85-4183-adb1-3b9e141671a0" />
+
+
 ## Result:
 Thus the study of Socket Programming Completed Successfully
