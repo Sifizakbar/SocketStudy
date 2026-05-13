@@ -54,6 +54,7 @@ Socket programming finds applications in various domains, including web developm
 5.	RPC mechanisms: which allow processes to execute code on a remote server, often use socket programming for communication.
 
 ## Program:
+```python
 import socket
 import threading
 import time 
@@ -102,7 +103,7 @@ client_thread.start()
 
 server_thread.join()
 client_thread.join()
-
+```
 **Output:**
 
 <img width="886" height="269" alt="Screenshot (430)" src="https://github.com/user-attachments/assets/3bb5adb3-cc85-4183-adb1-3b9e141671a0" />
